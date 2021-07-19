@@ -1,2 +1,0 @@
-Проверка работы git pull -rabse
-Прверка работы git diff
